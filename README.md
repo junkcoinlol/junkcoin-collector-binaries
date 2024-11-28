@@ -39,7 +39,7 @@
 
 ## Monitoring and Stats
 
-- You can reconnect to the **JunkCoin** network and access **192.168.4.1** to reset the WiFi settings or view additional stats.
+- You can reconnect to the **JunkCoin** network and access **192.168.4.1** to reset the WiFi settings
 - The device's local IP will also be displayed here, allowing you to connect to this console directly when on the same network instead of using the **JunkCoin** WiFi.
 
 ## Internet Verification and Wallet Connection
@@ -47,9 +47,4 @@
 - Your ESP device should be connected to the internet. Verify by opening the **JUNK** console [here](https://junkcoin.lol/console).
 - Connect the **Solana** wallet you provided when applying for a **Hoarder** role.
 - Give your Junk Collector **1 hour** to communicate with the **JUNK** servers. You will see an **"ALIVE"** status at the top of the page.
-
-## Check ESP Device Stats
-
-- If you wish to check the stats of your ESP device (e.g., temperature, uptime, reset WiFi, reset API key):
-  - Connect to the **JunkCoin** network and browse to **192.168.4.1**.
 
