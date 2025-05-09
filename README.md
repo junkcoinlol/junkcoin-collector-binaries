@@ -17,7 +17,7 @@
    - Once programmed, unplug your ESP device from the computer and connect it to a power source.
 
 5. **Watch the Example Video**  
-   - Follow our example video for guidance (link/video coming soon).
+   - Follow our example video for guidance [here](https://www.youtube.com/watch?v=25Znu_Eb8ks).
 
 ## WiFi Connection
 
@@ -25,8 +25,8 @@
    - Plug your ESP device into a power source.
 
 2. **Connect to JunkCoin WiFi**  
-   - Open your phone or computer's WiFi settings and connect to the **JunkCoin** WiFi network.  
-   - Password: **hoarder420**.
+   - Open your phone or computer's WiFi settings and connect to the **JunkMiner** WiFi network.  
+   - Password: **MineYourJunk** (Old binaries password is hoarder420).
 
 3. **Open Configuration Page**  
    - Open a web browser and go to **192.168.4.1**.
@@ -37,10 +37,8 @@
 5. **Connect**  
    - Click **Connect** to start collecting Junk!
 
-## Monitoring and Stats
-
-- You can reconnect to the **JunkCoin** network and access **192.168.4.1** to reset the WiFi settings
-- The device's local IP will also be displayed here, allowing you to connect to this console directly when on the same network instead of using the **JunkCoin** WiFi.
+6. **Wifi Access Point**
+   - If the JunkMiner wifi access point disappears after connecting, then it was a success. Otherwise retry.
 
 ## Internet Verification and Wallet Connection
 
