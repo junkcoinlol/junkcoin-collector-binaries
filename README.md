@@ -47,3 +47,7 @@
 - Connect the **Solana** wallet you provided when applying for a **Hoarder** role.
 - Give your Junk Collector **1 hour** to communicate with the **JUNK** servers. You will see an **"ALIVE"** status at the top of the page.
 
+## Contributions
+
+The main display assets for the lilygo were created by **Milan Maheshwari** from the Figma Community.  
+These assets are licensed under **CC BY 4.0**.
