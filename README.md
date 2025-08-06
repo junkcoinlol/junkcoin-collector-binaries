@@ -11,7 +11,8 @@
 3. **Flash the ESP Device**  
    - Flash the ESP with the bin file using an online flasher like **[ESPTool](https://espressif.github.io/esptool-js/)**.
    - Select a baud rate of **115200** and click the **Erase** button.
-   - Select your `.bin` file and click the **Program** button.
+   - Select your `.bin` file and set the flash address to 0x0000
+   - Click the **Program** button
 
 4. **Power the Device**  
    - Once programmed, unplug your ESP device from the computer and connect it to a power source.
